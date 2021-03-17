@@ -1,0 +1,9 @@
+Steps to Netflix Clone
+1) Create account with TMDB (API_KEY 08a2c1388cc56b41f79af63c50656944 )
+2) Create react app
+3) Setup Firebase hosting
+4) Getting the movies
+5) Build the Rows
+6) Build the Banner
+7) Build the Nav Bar
+8) Add trailer popups
